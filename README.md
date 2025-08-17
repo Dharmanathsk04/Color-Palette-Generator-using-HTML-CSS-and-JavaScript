@@ -1,0 +1,1 @@
+# Color-Palette-Generator-using-HTML-CSS-and-JavaScript
